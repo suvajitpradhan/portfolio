@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Libray Management System",
+    "imageSrc": "projects/virtual.png",
+    "description": "A Library Management System (LMS) is software designed to automate and streamline library operations, such as keeping track of books, managing user memberships, and handling borrowing/return transactions. This system reduces the need for manual effort and helps in maintaining accurate records of all operations.",
+    "skills": ["Html", "Css", "Javascript","Php","MySql"],
+    "source": "https://github.com/suvajitpradhan/Library_management_system_PHP"
+  },
+  {
+    "title": "ChatBot Using React Native",
+    "imageSrc": "projects/native.jpg",
+    "description": "The chatbot I developed is a React Native mobile application integrated with Google APIs to provide real-time conversational assistance. The chatbot is designed to simulate human-like conversations and perform various tasks like answering user",
+    "skills": ["React Native", "Goole/gemini api", "Css"],
+    "source": "https://github.com/ghoshariji/FirstProject"
+  }
+]
